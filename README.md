@@ -1,33 +1,39 @@
-# Teste Técnico DSIN - Desenvolvedor
-
-Solução desenvolvida para o teste técnico da DSIN, utilizando Java e SQL.
-
-O projeto contém a implementação dos exercícios propostos no teste, organizados por questão.
-
-## Tecnologias utilizadas
-
-- Java 21
-- Maven
-- SQL
-- Git
-- GitHub
-- IntelliJ IDEA
-
 ## Estrutura do projeto
 
+O projeto está organizado por exercício, mantendo cada solução separada em seu respectivo pacote:
+
 ```text
-src/
-└── main/
-    └── java/
-        ├── q1/
-        ├── q2/
-        ├── q3/
-        ├── q4/
-        ├── q5/
-        ├── q6/
-        ├── q7/
-        ├── q8/
-        ├── q9/
-        ├── q10/
-        ├── q11/
-        └── q12/
+teste-tecnico-dsin/
+├── src/
+│   └── main/
+│       └── java/
+│           ├── q1/
+│           │   └── AlgoritmoSalarioLiquido.java
+│           │
+│           ├── q2/
+│           │   └── ValoresAceitosENaoAceitos.java
+│           │
+│           ├── q3/
+│           │   └── CustoCarro.java
+│           │
+│           ├── q4/
+│           │   └── NotasNecessarias.java
+│           │
+│           ├── q5/
+│           │   └── PlacaConversor.java
+│           │
+│           ├── q6/
+│           │   └── ClassificarNumeros.java
+│           │
+│           ├── q7/
+│           │   └── ...
+│           │
+│           ├── q8/
+│           │   └── ...
+│           │
+│           └── q12/
+│               └── Pato.java
+│
+├── .gitignore
+├── pom.xml
+└── README.md
