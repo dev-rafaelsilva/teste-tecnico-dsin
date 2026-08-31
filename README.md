@@ -1,6 +1,19 @@
-## Estrutura do projeto
+# Teste Técnico DSIN - Desenvolvedor
 
-O projeto está organizado por exercício, mantendo cada solução separada em seu respectivo pacote:
+Soluções desenvolvidas para o teste técnico da DSIN, com exercícios de lógica de programação, Java e SQL.
+
+O projeto foi organizado de forma que cada exercício possua sua própria implementação, facilitando a execução, análise e manutenção das soluções.
+
+## Tecnologias utilizadas
+
+- Java 21
+- Maven
+- SQL
+- Git
+- GitHub
+- IntelliJ IDEA
+
+## Estrutura do projeto
 
 ```text
 teste-tecnico-dsin/
